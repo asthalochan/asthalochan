@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am currently studying Msc Data Science.
+Hello,I am 𝐀𝐬𝐭𝐡𝐚𝐥𝐨𝐜𝐡𝐚𝐧 currently studying Msc Data Science.
+With a strong foundation in Python , C , R ,  Machine Learning, AI , SQL , database management and data analysis techniques. 
+A quick learner with excellent problem-solving skills and a drive to continuously improve and expand technical skills.
+Seeking a challenging role to utilize skills and knowledge in real-world applications and contribute to the growth of the organization.
 
 
 # 💻 Tech Stack:
